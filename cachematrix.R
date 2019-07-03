@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## This command creates a list that facilitates the getting and setting of the
 ## matrix and the getting and setting of the inverse of the matrix.
 
